@@ -1,91 +1,99 @@
-<!-- ═══════════════════ HERO ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080B16,50:102A43,100:00D9FF&text=SANKET%20GADEKAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20AGENTIC%20SYSTEMS&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Animated portfolio banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,40:3B0764,75:7C3AED,100:06B6D4&text=SANKET.exe&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=loading%20intelligence...%20%F0%9F%A4%96&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="Sanket.exe animated banner"/>
 
-<a href="https://github.com/sanketgadekar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=Building+intelligent+AI+applications;Engineering+RAG+%26+multi-agent+systems;Python+%7C+FastAPI+%7C+LLMs;Turning+ideas+into+working+software" alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+%F0%9F%A4%96;I+make+LLMs+do+useful+things;RAG+%2B+Agents+%2B+Python;Building+stuff.+Breaking+stuff.+Fixing+stuff.;currently+debugging+the+future..." alt="Animated terminal introduction"/>
 
 <br/>
 
-<a href="https://github.com/sanketgadekar"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sanketgadekar/"><img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://linkedin.com/in/sanket-gadekar-14a915378"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![GitHub](https://img.shields.io/badge/github-follow%20the%20build-171717?style=for-the-badge&logo=github)](https://github.com/sanketgadekar)
+[![LeetCode](https://img.shields.io/badge/leetcode-grind%20mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanketgadekar/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-say%20hello-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanket-gadekar-14a915378)
 
 </div>
 
+```text
+╭──────────────────────────────────────────╮
+│  USER      : sanketgadekar                │
+│  CLASS     : AI ENGINEER                  │
+│  CURRENTLY : building intelligent things │
+│  SPECIALTY : RAG / LLMs / AGENTS          │
+│  STATUS    : always compiling...          │
+╰──────────────────────────────────────────╯
+```
+
+## 🧪 the lore
+
+AI/ML engineer intern by day, AI system builder whenever there's a problem worth solving.
+
+I work at the intersection of **Generative AI, agentic workflows, and Python backend engineering**. Less hype, more working software.
+
+- 🤖 Building AI apps that do more than return generic chatbot answers
+- 🧠 Experimenting with RAG, LangGraph, and multi-agent workflows
+- ⚙️ Shipping APIs with Python + FastAPI
+- 🌱 Learning by building, debugging, and improving
+- 🎓 AI & ML Engineering · ISBM College of Engineering, Pune
+
 ---
 
-## `$ whoami`
-
-AI/ML Engineer focused on building applications with **LLMs, retrieval-augmented generation, agentic workflows, and Python backends**.
-
-- ⚡ AI/ML Engineer Intern — Visionary Strategic Partner LLP, Pune
-- 🧠 Interested in RAG, multi-agent systems, and intelligent automation
-- ⚙️ Building APIs and AI services with Python and FastAPI
-- 🎓 B.E. Artificial Intelligence & Machine Learning · CGPA 8.11/10
-
----
-
-## `01 / Projects`
+## 🕹️ projects i've put into the world
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Nyaya Saathi
+### ⚖️ nyaya saathi
 
-**AI-powered legal accessibility**
+`AI × LEGAL TECH`
 
-A multilingual legal assistance platform using agentic AI and retrieval-grounded responses.
+Making complicated Indian legal information easier to navigate.
 
 - 7 legal assistance features
 - 7-agent LangGraph architecture
-- FIR image extraction and document generation
-- Support for 10 Indian languages
+- FIR image extraction + document generation
+- 10 Indian languages
 
-`LangGraph` `FastAPI` `ChromaDB` `Groq`
+**stack:** `Python` `FastAPI` `LangGraph` `ChromaDB` `Groq` `Supabase` `Twilio`
 
-<a href="https://github.com/sanketgadekar/nyaya-saathi">↗ View repository</a>
+[<kbd> &nbsp; EXPLORE PROJECT ↗ &nbsp; </kbd>](https://github.com/sanketgadekar/nyaya-saathi)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Enterprise Knowledge AI
+### 🧠 enterprise knowledge ai
 
-**Multi-tenant document intelligence**
+`RAG × DOCUMENT INTELLIGENCE`
 
-An enterprise RAG platform for semantic document search and context-aware question answering.
+Turn enterprise documents into searchable, conversational knowledge.
 
-- Document ingestion and chunking
-- FAISS vector retrieval
-- Citation-oriented LLM responses
+- Document ingestion + embeddings
+- FAISS semantic retrieval
+- Citation-oriented answers
 - Persistent chat sessions
 
-`Python` `FastAPI` `PostgreSQL` `FAISS`
+**stack:** `FastAPI` `PostgreSQL` `FAISS` `Ollama` `OpenAI`
 
-<a href="https://github.com/sanketgadekar?tab=repositories">↗ Explore repositories</a>
+[<kbd> &nbsp; FIND REPOSITORY ↗ &nbsp; </kbd>](https://github.com/sanketgadekar?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🌱 AnnadataAI
+### 🌱 annadataai
 
-**Machine learning for agriculture**
+`ML × AGRICULTURE`
 
-A farming assistant for crop recommendations and agricultural planning.
+Using machine learning to help turn soil and weather data into farming recommendations.
 
-- Random Forest predictions using soil and weather features
-- Feature engineering and preprocessing
-- FastAPI backend and Streamlit dashboard
+- Random Forest crop recommendations
+- Feature engineering + preprocessing
+- Irrigation planning + yield estimation
+- FastAPI backend + Streamlit dashboard
 
-`Python` `Scikit-learn` `Random Forest` `Streamlit`
+**stack:** `Python` `Scikit-learn` `FastAPI` `Streamlit`
 
-<a href="https://github.com/sanketgadekar?tab=repositories">↗ Explore repositories</a>
+[<kbd> &nbsp; FIND REPOSITORY ↗ &nbsp; </kbd>](https://github.com/sanketgadekar?tab=repositories)
 
 </td>
 </tr>
@@ -93,86 +101,86 @@ A farming assistant for crop recommendations and agricultural planning.
 
 ---
 
-## `02 / Tech Stack`
+## 🧰 my inventory
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,tensorflow,sklearn,pytorch&theme=dark" alt="Programming and engineering tools"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,tensorflow,sklearn&theme=dark" alt="Developer technology icons"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-LLM%20Orchestration-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-Agentic%20Workflows-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-Vector%20Search-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-Semantic%20Retrieval-0467DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI%20%7C%20Gemini%20%7C%20Groq-LLM%20APIs-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Deployment-2088FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-LLM%20orchestration-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-agent%20workflows-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-retrieval%20systems-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-vector%20search-EA580C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-semantic%20search-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-LLM%20inference-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini%20%7C%20OpenAI-model%20APIs-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-auth-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-shipping%20code-2088FF?style=flat-square"/>
 
 </div>
 
-**Core areas:** Python · SQL · REST APIs · RAG · Prompt Engineering · Multi-Agent Systems · Scikit-learn · Keras · XGBoost · Pandas · NumPy
+`also in the inventory:` SQL · LangChain · Ollama · Keras · XGBoost · Random Forest · CNNs · Pandas · NumPy · REST APIs · authentication · authorization · prompt engineering · feature engineering
 
 ---
 
-## `03 / LeetCode Activity`
+## 🎮 side quest: leetcode
+
+*Because debugging code is easier when your brain has done the reps.*
 
 <div align="center">
 
 <a href="https://leetcode.com/u/sanketgadekar/">
-<img src="https://leetcard.jacoblin.cool/sanketgadekar?theme=dark&font=Fira+Code&ext=heatmap" width="95%" alt="LeetCode statistics and submission heatmap"/>
+<img src="https://leetcard.jacoblin.cool/sanketgadekar?theme=dark&font=Fira+Code&ext=heatmap" width="95%" alt="LeetCode stats and submission heatmap"/>
 </a>
 
-<br/>
-
-<a href="https://leetcode.com/u/sanketgadekar/">
-<img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[![LeetCode profile](https://img.shields.io/badge/OPEN%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanketgadekar/)
 
 </div>
 
 ---
 
-## `04 / GitHub Activity`
+## 📡 activity feed
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanketgadekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanketgadekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketgadekar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=sanketgadekar&theme=tokyonight&hide_border=true" alt="GitHub activity streak"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=sanketgadekar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## `05 / Research`
+## 🧑‍🚀 irl stats
 
-- **Molecules to Medicines: AI's Transformative Role in Drug Discovery** — IJRTI2505095
-- **AI-Driven Prediction of Drug Adverse Effects Using Genomic DNA Profilings** — IJRTI2605156
+**Currently:** AI/ML Engineer Intern · Visionary Strategic Partner LLP, Pune  
+**Education:** B.E. Artificial Intelligence & Machine Learning · ISBM College of Engineering  
+**CGPA:** 8.11/10 · **Graduation:** 2026
+
+### 📚 published research
+
+- *Molecules to Medicines: AI's Transformative Role in Drug Discovery* — `IJRTI2505095`
+- *AI-Driven Prediction of Drug Adverse Effects Using Genomic DNA Profilings* — `IJRTI2605156`
 
 ---
 
-## `06 / Beyond the Code`
-
-**Experience:** AI/ML Engineer Intern · Visionary Strategic Partner LLP, Pune · April 2026–Present
-
-**Education:** B.E. Artificial Intelligence & Machine Learning · ISBM College of Engineering, Pune · 2022–2026
-
-**Focus:** AI engineering · Generative AI · Backend systems · Applied machine learning
-
 <div align="center">
 
-<a href="mailto:gadekarsanket31@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sanket-gadekar-14a915378"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=stay+curious.+keep+building.+ship+something+cool." alt="Animated closing message"/>
+
+<a href="mailto:gadekarsanket31@gmail.com">📬 EMAIL</a> ·
+<a href="https://linkedin.com/in/sanket-gadekar-14a915378">💼 LINKEDIN</a> ·
+<a href="https://github.com/sanketgadekar">💻 GITHUB</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:080B16&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:090014&height=110&section=footer" width="100%" alt="Animated neon footer"/>
 
-<sub>Design. Build. Evaluate. Improve.</sub>
+<sub>made with curiosity, caffeine, and questionable debugging hours ☕</sub>
 
 </div>
